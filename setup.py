@@ -3,7 +3,7 @@ from setuptools import setup
 from os import walk, path
 
 BASEDIR = path.abspath(path.dirname(__file__))
-URL = "TODO: Add 'repositoryUrl' to .projenrc.json and run pj"
+URL = "https://github.com/tped/skill-tped-how-are-things"
 SKILL_CLAZZ = "TODO: Add 'skillClass' to .projenrc.json and run pj"  # needs to match __init__.py class name
 PYPI_NAME = "skill-tped-how-are-things"  # pip install PYPI_NAME
 
@@ -69,7 +69,7 @@ setup(
     long_description_content_type="text/markdown",
     url=URL,
     author="TODO: Add 'author' to .projenrc.json and run pj",
-    author_email="TODO: Add 'authorAddress' to .projenrc.json and run pj",
+    author_email="tom@tpedersen.net",
     license="# TODO: Add 'license' to .projenrc.json and run pj",
     package_dir={SKILL_PKG: "src"},
     package_data={SKILL_PKG: find_resource_files()},
