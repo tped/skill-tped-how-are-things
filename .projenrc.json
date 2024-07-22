@@ -3,5 +3,6 @@
   "name": "skill-tped-how-are-things",
   "authorAddress": "tom@tpedersen.net",
   "authorHandle": "tped",
-  "repositoryUrl": "https://github.com/tped/skill-tped-how-are-things"
+  "repositoryUrl": "https://github.com/tped/skill-tped-how-are-things",
+  "skillClass": "TestSkill"
 }
