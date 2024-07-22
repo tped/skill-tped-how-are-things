@@ -108,16 +108,9 @@ class HowAreThingsSkill(OVOSSkill):
         return self.settings.get("log_level", "INFO")
 
     @intent_handler("HowAreThings.intent")
-    def handle_how_are_you_intent(self, message):
+    def handle_how_are_things_intent(self, message):
         """This is a Padatious intent handler.
         It is triggered using a list of sample phrases."""
-        self.speak_dialog("hello_world")
-
-    @intent_handler(IntentBuilder("HelloWorldIntent").require("HelloWorldKeyword"))
-    def handle_hello_world_intent(self, message):
-        """This is an Adapt intent handler, it is triggered by a keyword.
-        Skills can log useful information. These will appear in the CLI and
-        the skills.log file."""
 
         aok = True
         self.speak("I am checking a few things")
