@@ -12,16 +12,17 @@ import psutil
 
 # Optional - if you want to populate settings.json with default values, do so here
 DEFAULT_SETTINGS = {
-    "setting1": True,
-    "setting2": 50,
-    "setting3": "test",
+    "future_setting1": True,
+    "usage_threshold": 90,
+    "net_testsite": "www.ibm.com",
     "log_level": "WARNING"
 }
 
 
 def network_up():
+
     try:
-        socket.create_connection(("www.ibm.com", 80))
+        socket.create_connection(('www.ibm.com', 80))
         return True
     except OSError:
         return False

@@ -4,5 +4,5 @@
   "authorAddress": "tom@tpedersen.net",
   "authorHandle": "tped",
   "repositoryUrl": "https://github.com/tped/skill-tped-how-are-things",
-  "skillClass": "TestSkill"
+  "skillClass": "HowAreThingsSkill"
 }
