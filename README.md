@@ -1,10 +1,10 @@
-# How Are RPI Things Skill **** UNTESTED ****
+# How Are RPI Things Skill 
 
 Perform a simple system/network check 
 
 ## About
 
-Initial attempt at OVOS Skill development.  This skill runs a few Raspberry PI system command and reports on heath of the system - initially Temp, CPU load, Disk usage and throttling history
+Initial attempt at OVOS Skill development.  This skill runs a few Raspberry PI system commands and reports on heath of the system - initially Temp, CPU load, Disk usage and throttling history
 
 
 ## Examples
