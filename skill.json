@@ -3,7 +3,7 @@
     "url": "https://github.com/tped/skill-tped-how-are-things",
     "summary": "",
     "short_description": null,
-    "description": "Initial attempt at OVOS Skill development.  This skill runs a few Raspberry PI system command and reports on heath of the system - initially Temp, CPU load, Disk usage and throttling history",
+    "description": "Initial attempt at OVOS Skill development.  This skill runs a few Raspberry PI system commands and reports on heath of the system - initially Temp, CPU load, Disk usage and throttling history",
     "examples": [
         "How are things",
         "How are you doing?",
@@ -51,5 +51,5 @@
     "skillname": "skill-tped-how-are-things",
     "authorname": "tped",
     "foldername": null,
-    "how are rpi things skill **** untested ****": "Perform a simple system/network check"
+    "how are rpi things skill": "Perform a simple system/network check"
 }
