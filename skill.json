@@ -1,6 +1,6 @@
 {
     "title": "",
-    "url": "https://github.com/tped/skill-tped-how-are-things",
+    "url": "https://github.com/tped/ovos-skill-how-are-things",
     "summary": "",
     "short_description": null,
     "description": "Initial attempt at OVOS Skill development.  This skill runs a few Raspberry PI system command and reports on heath of the system - initially Temp, CPU load, Disk usage and throttling history",
@@ -48,7 +48,7 @@
         "P",
         "(@tped)"
     ],
-    "skillname": "skill-tped-how-are-things",
+    "skillname": "ovos-skill-how-are-things",
     "authorname": "tped",
     "foldername": null,
     "how are rpi things skill **** untested ****": "Perform a simple system/network check"

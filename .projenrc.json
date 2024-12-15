@@ -1,8 +1,8 @@
 {
   "type": "@mikejgray/ovos-skill-projen.OVOSSkillProject",
-  "name": "skill-tped-how-are-things",
+  "name": "ovos-skill-how-are-things",
   "authorAddress": "tom@tpedersen.net",
   "authorHandle": "tped",
-  "repositoryUrl": "https://github.com/tped/skill-tped-how-are-things",
+  "repositoryUrl": "https://github.com/tped/ovos-skill-how-are-things",
   "skillClass": "HowAreThingsSkill"
 }

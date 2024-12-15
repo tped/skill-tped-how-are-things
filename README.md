@@ -1,4 +1,4 @@
-# How Are RPI Things Skill **** UNTESTED ****
+# How Are RPI Things Skill **** warning:  I am a hack! ****
 
 Perform a simple system/network check 
 
